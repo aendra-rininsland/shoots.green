@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GreenShoots
+description: Growing towards a brighter Bluesky
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://shoots.green
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Visit us on Bluesky: https://bsky.app/profile/shoots.green
+
+color_scheme: shoots
