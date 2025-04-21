@@ -1,9 +1,9 @@
 ---
-title: About
+title: About @shoots.green
 layout: home
 ---
 
-The Green Shoots Community Development Trust is an attempt by me,
+The **@shoots.green Community Development Trust** is an attempt by me,
 [@aendra.com][1], to improve the resilience and vibrancy of initiatives on the
 [Bluesky][2] social media platform, focusing especially on projects and
 organisations that seek to improve 2SLGBTQIA+ representation and safety.
@@ -34,7 +34,7 @@ with me as a figure this all out. 💚
 
 My hope is that over time the trust can be a reliable source of funding for
 initiatives. I know I'm starting small, but enormous trees grow from tiny
-<strong style="color: green">Green Shoots</strong>.
+**green shoots**.
 
 [1]: https://bsky.app/profile/aendra.com
 [2]: https://bsky.app
